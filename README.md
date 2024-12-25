@@ -1,23 +1,56 @@
-<!-- Macos like icons -->
-<div align="left">
-  <b><pwn>🔴 🟡 🟢</pwn></b>
-</div>
-
+<!-- Header Section -->
 <div align="center">
+  <div>
     <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hey,+I'm+Labeeb+Shareef;Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </div>
 </div>
 
-###
+<br/>
+
+<!-- About Me Section -->
+<h2 align="center">About Me 🚀</h2>
+
+```javascript
+const labeeb = {
+    pronouns: "he/him",
+    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Material UI"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "Flask"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "AWS"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log and I'm not ashamed of it! 😄"
+};
+```
+
+<!-- Stats Section -->
+<h2 align="center">My GitHub Stats 📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=labeebshareef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<!-- Skills Section -->
+<h2 align="center">Technologies & Tools 🛠️</h2>
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=labeebshareef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=labeebshareef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labeebshareef&hide_progress=true" height="150" alt="languages graph"  /> -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-
-<!-- Connect -->
-
+<!-- Connect Section -->
 <h2 align="center">Let's Connect! 🤝</h2>
 
 <div align="center">
@@ -32,4 +65,13 @@
   </a>
 </div>
 
-<!-- End of README -->
+<!-- Footer -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=labeebshareef&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ Happy Coding! ⚡</i>
+</div>
