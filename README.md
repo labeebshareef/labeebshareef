@@ -20,7 +20,7 @@ const labeeb = {
             css: ["Tailwind", "Bootstrap", "Material UI"]
         },
         backEnd: {
-            js: ["Node", "Express", Loppback 4, nestJs],
+            js: ["Node", "Express", "Loopback 4", "nestJs"],
         },
         databases: ["MongoDB"],
         tools: ["Git", "CI/CD", "AWS"]
