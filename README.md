@@ -13,18 +13,17 @@
 ```javascript
 const labeeb = {
     pronouns: "he/him",
-    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+    code: ["JavaScript", "Java", "HTML", "CSS"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
             css: ["Tailwind", "Bootstrap", "Material UI"]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"]
+            js: ["Node", "Express", Loppback 4, nestJs],
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "Docker", "AWS"]
+        databases: ["MongoDB"],
+        tools: ["Git", "CI/CD", "AWS"]
     },
     currentFocus: "Building scalable web applications",
 };
