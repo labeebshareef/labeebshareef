@@ -19,7 +19,7 @@
 <!-- Connect -->
 ###
 
-h2 align="center">Let's Connect! 🤝</h2>
+<h2 align="center">Let's Connect! 🤝</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/labeeb-shareef" target="_blank">
