@@ -25,7 +25,7 @@ const labeeb = {
         databases: ["MongoDB"],
         tools: ["Git", "CI/CD", "AWS"]
     },
-    currentFocus: "React deep diving",
+    currentFocus: "learning figma designing & animations with motion",
 };
 ```
 
