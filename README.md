@@ -71,5 +71,5 @@ const labeeb = {
 ---
 
 <div align="center">
-  <i>⚡ Happy Coding! ⚡</i>
+  <i>⚡Stay Happy😁! ⚡</i>
 </div>
