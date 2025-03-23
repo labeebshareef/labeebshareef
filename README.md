@@ -13,7 +13,7 @@
 ```javascript
 const labeeb = {
     pronouns: "he/him",
-    code: ["JavaScript", "Java", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
