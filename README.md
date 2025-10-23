@@ -17,7 +17,7 @@ const labeeb = {
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material UI"]
+            css: ["Tailwind", "Bootstrap", "Material UI", Framer Motion]
         },
         backEnd: {
             js: ["Node", "Express", "Loopback 4", "nestJs"],
@@ -25,7 +25,7 @@ const labeeb = {
         databases: ["MongoDB"],
         tools: ["Git", "CI/CD", "AWS"]
     },
-    currentFocus: "learning figma designing & animations with motion",
+    currentFocus: "Deep diving inside JS and it's runtimes",
 };
 ```
 
