@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hey,+I'm+Labeeb+Shareef;Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hey,+I'm+Labeeb+Shareef;Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=23" />
   </div>
 </div>
 
