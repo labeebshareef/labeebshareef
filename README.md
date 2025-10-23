@@ -17,7 +17,7 @@ const labeeb = {
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material UI", Framer Motion]
+            css: ["Tailwind", "Bootstrap", "Material UI", "Framer Motion"]
         },
         backEnd: {
             js: ["Node", "Express", "Loopback 4", "nestJs"],
