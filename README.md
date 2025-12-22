@@ -25,7 +25,7 @@ const labeeb = {
         databases: ["MongoDB"],
         tools: ["Git", "CI/CD", "AWS"]
     },
-    currentFocus: "Deep diving inside JS and it's runtimes",
+    currentFocus: "Deep diving inside JS and it's runtimes, Dating with GoLang",
 };
 ```
 
