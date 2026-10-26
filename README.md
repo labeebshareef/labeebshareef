@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # Hey, I'm Labeeb Shareef 👋
 
-**Full Stack Engineer** · **TypeScript** · **React** · **Node.js**
+**Full Stack Engineer** · **TypeScript** · **React & Node.js** · **Exploring Generative AI**
 
-I enjoy building thoughtful web experiences, clean APIs, and software that's easy to grow.
+I enjoy building thoughtful web experiences, clean APIs, and exploring how generative AI can make everyday software more useful.
 
 [LinkedIn](https://www.linkedin.com/in/labeeb-shareef) · [Email](mailto:labeebshareef96@gmail.com) · [GitHub](https://github.com/labeebshareef)
 
@@ -18,7 +17,7 @@ I enjoy building thoughtful web experiences, clean APIs, and software that's eas
 - I work across the stack, from interactive frontends to backend services and APIs.
 - I care about clear user experiences, maintainable architecture, and the details behind how things work.
 - I'm curious about JavaScript internals, developer tooling, and compiler design.
-- I like learning by building and experimenting.
+- I like learning by building and experimenting, especially with developer tools and practical AI features.
 
 ### 🛠️ Tech I work with
 
@@ -29,7 +28,17 @@ I enjoy building thoughtful web experiences, clean APIs, and software that's eas
 **Frontend:** React · Next.js · Tailwind CSS · Material UI · Framer Motion  
 **Backend:** Node.js · Express · NestJS · LoopBack 4  
 **Database & cloud:** MongoDB · AWS · CI/CD · Git  
-**Exploring:** Rust · Compilers · Language tooling
+**Exploring:** Generative AI · LLMs · RAG · AI agents · Rust · Compilers
+
+### 🤖 Exploring Generative AI
+
+I'm interested in bringing **GenAI into real products**, not just demos. Right now, I'm exploring:
+
+- **LLM-powered applications** — connecting language models with familiar web stacks.
+- **RAG & semantic search** — using retrieval and context to make AI responses more useful.
+- **AI agents & automation** — experimenting with tool calling, structured outputs, and multi-step workflows.
+
+My goal is to build AI features that are **practical, reliable, and easy to use**.
 
 ### 🔍 Featured project
 
